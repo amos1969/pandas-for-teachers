@@ -11,5 +11,6 @@ Ideas so far:
 + Traffic data
 + Parking data
 + School data
-+ Data feeds from 
++ Data feeds from
++ Plot some time series data feeds from Manchester car parks
 
