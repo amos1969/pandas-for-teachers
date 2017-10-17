@@ -14,3 +14,9 @@ Ideas so far:
 + Data feeds from
 + Plot some time series data feeds from Manchester car parks
 
+Include following link: https://goo.gl/forms/DqC9ZowerH0otE2I3 to survey about teachers and Data Science for Sue
+Sentance 
+
+
+
+
