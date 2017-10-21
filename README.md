@@ -15,7 +15,12 @@ Ideas so far:
 + Plot some time series data feeds from Manchester car parks
 
 Include following link: https://goo.gl/forms/DqC9ZowerH0otE2I3 to survey about teachers and Data Science for Sue
-Sentance 
+Sentance
+
+Beginners Session - similar to STEM Centre one
+Car Park Data
+Postcode data to map
+
 
 
 
