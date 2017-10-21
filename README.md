@@ -5,19 +5,10 @@ very basic **this is Pandas, this is what it can do** type workshop. Then the pl
 activity that teachers can work through at their own pace using either their own data-set or ones, which are
 pre-provided.
 
-Ideas so far:
-
-+ Weather forecast data
-+ Traffic data
-+ Parking data
-+ School data
-+ Data feeds from
-+ Plot some time series data feeds from Manchester car parks
-
 Include following link: https://goo.gl/forms/DqC9ZowerH0otE2I3 to survey about teachers and Data Science for Sue
 Sentance
 
-Beginners Session - similar to STEM Centre one
+Beginners Session - similar to STEM Centre one, maybe use postcodes et al.
 Car Park Data
 Postcode data to map
 
