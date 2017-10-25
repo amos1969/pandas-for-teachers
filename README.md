@@ -8,10 +8,10 @@ pre-provided.
 Include following link: https://goo.gl/forms/DqC9ZowerH0otE2I3 to survey about teachers and Data Science for Sue
 Sentance
 
-Part 1: Beginners Session - similar to STEM Centre one, maybe use postcodes et al.
-Part 2: Car Park Data
-Part 3: PPostcode data to map
-art 4: PPersonal weather forecast
+Part 1: Beginners Session - similar to STEM Centre one, maybe use postcodes et al.  
+Part 2: Car Park Data  
+Part 3: PPostcode data to map  
+Part 4: Personal weather forecast  
 
 
 
