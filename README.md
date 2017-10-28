@@ -12,8 +12,7 @@ Part 1: Beginners Session - similar to STEM Centre one
 Part 2: Clean data you get from elsewhere  
 Part 3: Display diagrams for your data manually  
 Part 4: Display diagrams automagically  
-Part 5: Put your data onto a map by Postcode  
-Part 6: What can you make?  
+Part 5: What can you make?  
 
 
 
