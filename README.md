@@ -12,6 +12,7 @@ Part 1: Beginners Session - similar to STEM Centre one
 Part 2: Clean data you get from elsewhere  
 Part 3: Display diagrams for your data manually  
 Part 4: Display diagrams automagically  
+Part 5: Use a different library to create interactive diagrams  
 Part 5: What can you make?  
 
 
